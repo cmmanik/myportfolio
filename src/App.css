@@ -1,0 +1,215 @@
+/* body {
+  background: #e96443;  fallback for old browser
+background: -webkit-linear-gradient(to left, #904e95, #e96443);  /* Chrome 10-25, Safari 5.1-6 */
+/* background: linear-gradient(to left, #904e95, #e96443); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/* } */
+.ddddddddd {
+  height: 100%;
+  color: red;
+}
+
+.header-coler {
+  background: #833ab4;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.landing-grid {
+  background: #833ab4;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.names {
+  text-align: center;
+  font-size: 25px;
+
+}
+
+.banner-text {
+  background: #11998e;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #38ef7d, #11998e);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #38ef7d, #11998e);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 10px;
+  width: 75%;
+  margin: 0 auto;
+  display: block;
+  border-radius: 80px;
+  text-align: center;
+  font-style: normal;
+  font-size: 30px;
+  font-weight: bold;
+  color: blanchedalmond;
+  margin-bottom: 132px;
+  margin-top: 20px;
+
+}
+
+.nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav li {
+  display: inline-block;
+  padding: 0px 40px 20px 9px;
+  text-align: center;
+  font-size: 38px;
+}
+
+.nav li a {
+  text-decoration: none;
+  background: white;
+  display: contents;
+}
+
+.fba {
+  color: white;
+}
+
+.linkdins {
+  color: white;
+}
+
+.githubs {
+  color: white;
+}
+
+.youtbs {
+  color: white;
+}
+
+.footer-st {
+  background: #FC5C7D;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #6A82FB, #FC5C7D);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #6A82FB, #FC5C7D);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.footer-st p {
+  color: white;
+  text-align: center;
+  padding: 15px 0px 0px 0px;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.demo-grid {
+  display: flex;
+}
+
+
+
+/* contact page css */
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+.contact-grid p {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr {
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.cicon {
+  padding-right: 17px;
+  color: rgb(84, 179, 248);
+  font-size: 27px;
+}
+
+.cicon:hover {
+  color: #36D1DC;
+}
+
+.ddd {
+  color: #1a343b;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* contact page css */
+
+.cpp {
+  background: #36D1DC;
+  margin-top: 14px;
+  display: block;
+  padding: 21px;
+  border-radius: 18px;
+}
+
+.imggg {
+  border: 1px solid #ff6851;
+  padding: 3px;
+  border-radius: 7px;
+  margin-top: 45px;
+}
+
+.footer-color {
+  text-align: center !important;
+  background: #C33764;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #1D2671, #C33764);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #1D2671, #C33764);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.sdfsdafsadf {
+  padding-left: 50px;
+}
+
+.sdfsdfsdf {
+  padding-left: 10%;
+  text-align: justify;
+}
+
+.resimg {
+  height: 200px;
+  margin-top: 30px;
+  border: 1px solid #334e43;
+  padding: 8px;
+  border-radius: 17px;
+}
+
+.contac {
+  background: #00bcd45e;
+  padding: 10px;
+  border-radius: 20px;
+  margin-left: 47px;
+  font-style: normal;
+}
